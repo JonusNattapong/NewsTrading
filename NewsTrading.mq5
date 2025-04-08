@@ -7,7 +7,6 @@
 #property link      "https://github.com/JonusNattapong"
 #property version   "1.00"
 #property description "News Trading Expert Advisor"
-#property strict
 
 // Include required files
 #include "NewsTrading_Config.mqh"
